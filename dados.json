@@ -1,0 +1,40 @@
+[
+    {
+        "nome": "Arroz de Couve-Flor",
+        "ingredientes": [
+            "Arroz",
+            "Couve-Flor",
+            "Cebola Média",
+            "Azeite"
+        ],
+        "preparo": "Deixe a couve-flor picada. Adicione os igredientes e refogue bem. Adicione sal, tampe a panela e deixe cozinhar.",
+        "imagem": "https://receitasdeminuto.com/wp-content/uploads/2019/10/arrozcouveflor.jpg",
+        "alt":"Imagem de um arroz com couve-flor."
+    },
+    {
+        "nome": "Bolo de Café",
+        "ingredientes": [
+            "Farinha de Trigo",
+            "Açucar",
+            "Café Coado",
+            "Chocolate em Pó",
+            "Ovos"
+        ],
+        "preparo": "Bata o açúcar, as gemas e o café. Adicione farinha e chocolate e mexa bem. Bata as claras e junte à mistura.",
+        "imagem": "https://essareceitafunciona.com.br/wp-content/uploads/2021/01/bolo-de-chocolate-com-cafe-na-massa-essa-receita-funciona-1140x760.jpg",
+        "alt": "Imagem de um bolo de café com cobertura."
+    },
+    {
+        "nome": "Coxinha de Brigadeiro",
+        "ingredientes": [
+            "Leite Condensado",
+            "Chocolate em Pó",
+            "Manteiga",
+            "Morango",
+            "Chocolate Granulado"
+        ],
+        "preparo": "Junte o leite condensado, chocolate em pó e manteiga. Aqueça no fogo baixo. Envolva os morangos e passe no granulado.",
+        "imagem": "https://conteudo.imguol.com.br/c/entretenimento/49/2021/05/31/coxinha-de-brigadeiro-com-morango-1622492449118_v2_300x400.jpg",
+        "alt": "Imagem de uma coxinha de brigadeiro pela metade com um morango dentro."
+    }   
+]
